@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Bootstrap for Genesis is a genesis child theme which integrates [Twitter Bootstrap](http://getbootstrap.com/). It uses Gulp to compile CSS, JS, Bower to install dependencies and Compass/SCSS for CSS. 
+Bootstrap for Genesis is a child theme for the Genesis Framework using [Bootstrap](http://getbootstrap.com). It uses Gulp to compile CSS, JS, Bower to install dependencies and Compass/SCSS for CSS. 
 
 ## Installation Instructions
 
@@ -68,7 +68,3 @@ Without these projects, this theme wouldn't be where it is today.
 * ~~[GitHub Updater](https://github.com/afragen/github-updater)~~
 * [Mr Image Resize](https://github.com/mendezcode/mr-image-resize)
 * [Shortcodes Ultimate](http://gndev.info/shortcodes-ultimate/)
-
-## Update
-
-We're moving away from traditional shortcode building and we'll be using [Shortcodes Ultimate](http://gndev.info/shortcodes-ultimate/) API to for our shortcodes.
